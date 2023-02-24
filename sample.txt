@@ -2,3 +2,4 @@ First commit in the master
 repo init -u https://git.visteon.com/snapdragonseries/visteon/s220/manifest -b mah_s220_w502_int -m mah_s220_w502_product/mah_s220_w502_6155.xml --repo-url http://git.pune.visteon.com/repo-tools/repo-v2.8
 repo sync --optimized-fetch --no-clone-bundle --no-tags -j1
 curl https://storage.googleapis.com/git-repo-downloads/repo-1 > repo
+sudo apt-get install uuid uuid-dev zlib1g-dev liblz-dev liblzo2-2 liblzo2-dev lzop git-core curl u-boot-tools mtd-utils android-tools-fsutils device-tree-compiler gdisk git-core gnupg flex bison gperf build-essential zip curl zlib1g-dev gcc-multilib g++-multilib libc6-dev-i386 lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev libgl1-mesa-dev libxml2-utils xsltproc unzip python-networkx  libnss-sss:i386 make curl device-tree-compiler m4 clang gcc-multilib openjdk-8-jdk repo cpio liblocal-lib-perl cpanminus libxml-simple-perl
