@@ -1,1 +1,2 @@
 First commit in the master
+repo init -u https://git.visteon.com/snapdragonseries/visteon/s220/manifest -b mah_s220_w502_int -m mah_s220_w502_product/mah_s220_w502_6155.xml --repo-url http://git.pune.visteon.com/repo-tools/repo-v2.8
